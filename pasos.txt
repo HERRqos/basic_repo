@@ -1,0 +1,6 @@
+se creo un repo en linea en github
+se copio el repositio en la carpeta deseada mediante las lineas de codigo que provee github
+se creo archivos de html y css en el repositorio local se modifico
+se uso los comandos git add . git commit git pull y git push para poder acualizar los archivos en github
+se relizo cambios en git hub con su respectivo commit
+se uso los comandos git pull para traer los cambios al repositorio local
